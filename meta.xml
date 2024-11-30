@@ -1,0 +1,14 @@
+<meta>
+    <info author="CoNNs" version="1.2.4" name="RSC_Comandos_Staff" />
+    <min_mta_version server="1.5.4-9.11413" client="1.3.2" />
+    
+    <script src="RSC_Config.lua" type="shared" cache="false" />
+    <script src="RSC_Client.lua" type="client" />
+    <script src="RSC_Server.lua" type="server" />
+    
+    <file src="fontes/font.ttf" cache="false" />
+    <export function="AbrirChamado" type="client" />
+    
+    <!-- export de abrir Chamdos deve ser usado no lado arquivo client!!
+exports["[RSC]Comandos_Staff"]:AbrirChamado(localPlayer) -->&#x0A;&#x0A;AbrirChamado&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;&#x0A;
+</meta>
